@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "edenanimeworld": {
+      "hosting": {
+        "eden-anime-world": [
+          "edenanimeworld"
+        ]
+      }
+    }
+  }
+}
